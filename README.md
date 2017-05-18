@@ -1,2 +1,2 @@
-# javascript-conference
-A website for javascript conference
+# Javascript-Conference
+A Website For Javascript Conference
